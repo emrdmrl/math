@@ -1,0 +1,12 @@
+Bir matrisin determinantı 
+Bir matrisin determinantı, matrisin köşegen elemanlarının
+çarpılmasıyla bulunur. Yani 2x2 tipinde bir matrisisin determinantını 
+bulmak için, elemanlarının üzerine bir X çizilir. İlk önce X'in sol
+tarafına en üstten başlayan köşegeni çizeriz. Daha sonra X'in sağ
+tarafına yukarıdan başlayarak bir köşegen çizeriz.
+Matris determinantı hesaplayabilmek için aynı sayıda satır ve sütuna sahip
+olması gerekir.
+Boyutu 2x2'den büyük matrislerin determinantlarını hesaplayabilmek için 
+Laplace ve Sarrus Kuralını kullanırız.
+www.patika.dev 
+..
